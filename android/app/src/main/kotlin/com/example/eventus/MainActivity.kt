@@ -1,4 +1,4 @@
-package com.example.ESIG
+package com.example.esig
 
 import io.flutter.embedding.android.FlutterActivity
 
