@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.yodadex">
+    package="com.example.ESIG">
     <uses-permission android:name="android.permission.INTERNET"/>
 
    <application
-        android:label="yodadex"
+        android:label="ESIG"
         android:name="${applicationName}"
         android:networkSecurityConfig="@xml/network_security_config"
         android:icon="@mipmap/ic_launcher">

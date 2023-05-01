@@ -1,4 +1,4 @@
-package com.example.yodadex
+package com.example.ESIG
 
 import io.flutter.embedding.android.FlutterActivity
 
