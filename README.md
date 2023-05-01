@@ -22,4 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <p><b>Para rodar a aplicação:</b> flutter run</p>
 <p><b>Para instalar dependencias:</b> flutter pub-get</p>
-<p>É importante lembrar que esse é apenas um passo pra executar, quando estou no meu ambiente de desenvolvimento eu utilizo meu celular para emulação pra não pesar na máquina e já ter uma noção de como ficaria o projeto no android mas ele também pode ser emulado via navegador, então pra gerar APK seriam outros comandos mas vou deixar só esses aqui pra mostrar como emular que já seria suficiente.</p>
+<p>É importante lembrar que esse é apenas um passo pra executar, quando estou no meu ambiente de desenvolvimento eu utilizo meu celular para emulação pra não pesar na máquina e já ter uma noção de como ficaria o projeto no android mas ele também pode ser emulado via navegador, então pra gerar APK seriam outros comandos mas vou deixar só esses aqui pra mostrar como emular que já seria suficiente.
+
+Mas caso queira um executável tem um arquivo.apk na pasta raiz do projeto -> https://github.com/Misians/ESIG-SOFTWARE-APP/blob/master/app-debug.apk
+</p>
